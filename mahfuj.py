@@ -374,7 +374,7 @@ def apvdef():
     a=str(os.geteuid())
     b=str(os.getlogin())
     key= "\"`\'''.join(a+b)
-      row=httpx.get("https://github.com/Norokfj/Dadu/blob/main/Approval.txt").text
+      row=httpx.get("https://github.com/M4H4FUJ/mahfuj/blob/main/Approval.txt").text
       if key in row:
         main()
       else:
