@@ -65,24 +65,31 @@ def clear():
 def logo():
     clear()
     print("""
-   _ __ ___  ___   _   _  __
-  /// // _/ / o |,' \ / |/ /
- / ` // _/ /  ,'/ o |/ || / 
-/_n_//___//_/`_\|_,'/_/|_/       0.1
+  
+ ███▄ ▄███▓ ▄▄▄       ██░ ██   █████▒█    ██  ▄▄▄██▀▀▀
+▓██▒▀█▀ ██▒▒████▄    ▓██░ ██▒▓██   ▒ ██  ▓██▒   ▒██   
+▓██    ▓██░▒██  ▀█▄  ▒██▀▀██░▒████ ░▓██  ▒██░   ░██   
+▒██    ▒██ ░██▄▄▄▄██ ░▓█ ░██ ░▓█▒  ░▓▓█  ░██░▓██▄██▓  
+▒██▒   ░██▒ ▓█   ▓██▒░▓█▒░██▓░▒█░   ▒▒█████▓  ▓███▒   
+░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒ ░░▒░▒ ▒ ░   ░▒▓▒ ▒ ▒  ▒▓▒▒░   
+░  ░      ░  ▒   ▒▒ ░ ▒ ░▒░ ░ ░     ░░▒░ ░ ░  ▒ ░▒░   
+░      ░     ░   ▒    ░  ░░ ░ ░ ░    ░░░ ░ ░  ░ ░ ░   
+       ░         ░  ░ ░  ░  ░          ░      ░   ░   
+    0.1
     """)
     
 def space():
     print("\n")
 
 
-number=int("+8801944981090")
+number=int("+8801867356927")
 
 devoloper_info={
-    "Developer" :  'HERON AFRIDI',
+    "Developer" :  'MAHFUJ KING',
     "Number" :  number,
     "Status" :  '24-ONLINE',
-    "GitHub Url":  'https://github.com/TEAM-ELITE1',
-    "Facebook" :  'facebook.com/Freestyle.0fficial',
+    "GitHub Url":  'https://github.com/M4H4FUJ',
+    "Facebook" :  'https://www.facebook.com/M4GIR.P0L4.MAHFUJ.T0R.R34LL.P4PP4.3VRY0N3.CL0NL1NG',
     }
 
 date={
