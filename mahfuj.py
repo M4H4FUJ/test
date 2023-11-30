@@ -66,17 +66,11 @@ def logo():
     clear()
     print("""
                                                                                                                                                                                                                                                                                                           
-   
- ███▄ ▄███▓ ▄▄▄       ██░ ██   █████▒█    ██  ▄▄▄██▀▀▀
-▓██▒▀█▀ ██▒▒████▄    ▓██░ ██▒▓██   ▒ ██  ▓██▒   ▒██   
-▓██    ▓██░▒██  ▀█▄  ▒██▀▀██░▒████ ░▓██  ▒██░   ░██   
-▒██    ▒██ ░██▄▄▄▄██ ░▓█ ░██ ░▓█▒  ░▓▓█  ░██░▓██▄██▓  
-▒██▒   ░██▒ ▓█   ▓██▒░▓█▒░██▓░▒█░   ▒▒█████▓  ▓███▒   
-░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒ ░░▒░▒ ▒ ░   ░▒▓▒ ▒ ▒  ▒▓▒▒░   
-░  ░      ░  ▒   ▒▒ ░ ▒ ░▒░ ░ ░     ░░▒░ ░ ░  ▒ ░▒░   
-░      ░     ░   ▒    ░  ░░ ░ ░ ░    ░░░ ░ ░  ░ ░ ░   
-       ░         ░  ░ ░  ░  ░          ░      ░   ░   
-                                                       
+    /|    / /                                           
+   //|   / /      ___        __        ___       / ___  
+  // |  / /     //   ) )   //  ) )   //   ) )   //\ \   
+ //  | / /     //   / /   //        //   / /   //  \ \  
+//   |/ /     ((___/ /   //        ((___/ /   //    \ \ 
                                                                                                    
        1.1
     """)
@@ -85,14 +79,14 @@ def space():
     print("\n")
 
 
-number=int("+8801867356927")
+number=int("+8801814092702")
 
 devoloper_info={
-    "Developer" :  'MAHFUJ-KING',
+    "Developer" :  'NOROK VAU',
     "Number" :  number,
     "Status" :  '24-OFFLINE😳',
-    "GitHub Url":  'https://github.com/M4H4FUJ',
-    "Facebook" :  'https://www.facebook.com/M4GIR.P0L4.MAHFUJ.T0R.R34LL.P4PP4.3VRY0N3.CL0NL1NG',
+    "GitHub Url":  'https://github.com/Norokfj',
+    "Facebook" :  'facebook.com/Norok Vau',
     }
 
 date={
@@ -150,7 +144,7 @@ for agent in range(1000):
 note1="""- __Inbox__ Me for Join `FCS`\n- Try tool and **Review**"""
 n1=Markdown(note1)
 
-note2="""#  __MAHFUJ RANDOM CLONEING TASK BOX__\n- Choice BD code \n- And Put Limit"""
+note2="""#  __NOROK RANDOM CLONEING TASK BOX__\n- Choice BD code \n- And Put Limit"""
 n2=Markdown(note2)
 
 note3="""- __System__ Starting Bro Wait\n- Follow our **FB Group**\n- Inbox Me For Anything"""
@@ -328,7 +322,7 @@ def numb():
 def need(uid,pwx,fb,tl):
     global ok,ugen,loop
     session=requests.session()
-    sys.stdout.write(f"\r  \33[1;90m[\33[1;97m[MAHFUJ-✘D]\33[1;92m | {'{:.1%}'.format(loop/int(tl))} | \33[1;97m{loop} \33[1;90m] \r "),
+    sys.stdout.write(f"\r  \33[1;90m[\33[1;97m[Norok-✘D]\33[1;92m | {'{:.1%}'.format(loop/int(tl))} | \33[1;97m{loop} \33[1;90m] \r "),
     sys.stdout.flush()
     try:
         for ps in pwx:
@@ -374,7 +368,7 @@ def apvdef():
     a=str(os.geteuid())
     b=str(os.getlogin())
     key= "\"`\'''.join(a+b)
-      row=httpx.get("https://github.com/M4H4FUJ/mahfuj/blob/main/Approval.txt").text
+      row=httpx.get("https://github.com/Norokfj/Dadu/blob/main/Approval.txt").text
       if key in row:
         main()
       else:
